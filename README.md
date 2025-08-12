@@ -1,2 +1,2 @@
-#s21_stringplus
+# s21_stringplus
 Реализована библиотека string
